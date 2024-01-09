@@ -1,0 +1,3 @@
+[submodule "david_submodule"]
+	path = david_submodule
+	url = git@github.com:DAVIDCO1-rnd/david_submodule.git
